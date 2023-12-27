@@ -1,7 +1,6 @@
 ## Bem vindo ao meu repositório
 
-<img src="https://github.com/ryanNS3/ryanNS3/assets/131712164/1ffc84b5-d222-4a26-b37a-d209539f72e4" alt="Ryan" style="width:65%; border-radius: 50%;">
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanNS3&show_icons=true&bg_color=#)
 <article aria-labelledby="title-about" >
     <div class="">
         <h2 id="title-abount">✍sobre mim</h2>
@@ -10,17 +9,6 @@
 
 </article><br/>
 
-<div class="badges">
-   
-<!--     
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/ryan-novaes-847532272/)
-[![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
-)](https://www.figma.com/file/Y0NvwSPBzHzXDQZAG8tCOA/BitTask?type=design&mode=design&t=EScguUdWHa2FgukO-0) -->
-
-</div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanNS3&show_icons=true&bg_color=#)
 
 
 
