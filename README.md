@@ -1,6 +1,7 @@
 ## Bem vindo ao meu repositório
 
-![Ryan](https://github.com/ryanNS3/ryanNS3/assets/131712164/1ffc84b5-d222-4a26-b37a-d209539f72e4)
+<img src="https://github.com/ryanNS3/ryanNS3/assets/131712164/1ffc84b5-d222-4a26-b37a-d209539f72e4" alt="Ryan" style="width:65%; border-radius: 50%;">
+
 <article aria-labelledby="title-about" >
     <div class="">
         <h2 id="title-abount">✍sobre mim</h2>
