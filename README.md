@@ -1,13 +1,18 @@
 ## Bem vindo ao meu repositório
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanNS3&show_icons=true&bg_color=#)
-<article aria-labelledby="title-about" >
-    <div class="">
-        <h2 id="title-abount">✍sobre mim</h2>
-        <p>Meu nome é ryan, sou estudante de programação à 1 ano e meio. A principal habilidade que estou desenvolvendo é a criação de interfaces para aplicações web e mobile, utilizando conceitos de UI e UX. </p>
-    </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header&text="/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ryan+Novaes+;I'm+17+years+old;I+am+from+São+Paulo,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-</article><br/>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniciusmontes&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&bg_color=0d1117" alt="Vinicius Montes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmontes&layout=compact&hide_border=true&title_color=00ff00&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viniciusmontes&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
 
