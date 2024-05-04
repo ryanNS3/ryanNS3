@@ -1,8 +1,9 @@
 ## Bem vindo ao meu repositório
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3C77FF&height=120&section=header&text="/>
-  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E54CF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ryan+Novaes+;I'm+17+years+old;I+am+from+São+Paulo,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 
 <div align="center">  
@@ -20,7 +21,7 @@
 
 ### ⚪Minhas skils:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,java,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,sass,javascript,react,java,nodejs)](https://skillicons.dev)
 
 
 
