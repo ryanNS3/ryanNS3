@@ -6,8 +6,9 @@
 
 
 
-<div style="display: flex, justify-content: space-between" align="center">  
-  <img  width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ryanNS3&show_icons=true&count_private=true&hide_border=true&title_color=1E54CF&icon_color=00ff00&text_color=c9d1d9&bg_color=0d1117" alt="Ryan Novaes github stats" /> 
+<div style="display: flex, justify-content: space-between, gap: 16px" align="center">  
+  <img align="right" src="https://github.com/Ashutosh00710/github-stats-transparent/blob/output/generated/overview.svg"  width="400">
+
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanNS3&layout=compact&hide_border=true&title_color=1E54CF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
