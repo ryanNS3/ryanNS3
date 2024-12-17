@@ -8,7 +8,7 @@
 
 <div style="display: flex, justify-content: space-between" align="center">  
   <img  width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ryanNS3&show_icons=true&count_private=true&hide_border=true&title_color=1E54CF&icon_color=00ff00&text_color=c9d1d9&bg_color=0d1117" alt="Ryan Novaes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanNS3&layout=compact&hide_border=true&title_color=1E54CF&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanNS3&layout=compact&hide_border=true&title_color=FFEB3C&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ryanNS3&bg_color=000000&color=ffffff&line=195EFC&point=97B7FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
