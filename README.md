@@ -8,11 +8,14 @@
 ## About me
 
 <ul>
+  <li>Desenvolvedor de Software</li>
   <li>Jovem Aprendiz no @mercado livre</li>
   <li>Segundo semestre da graduação em Análise e Desenvolvimento De Sistemas </li>
   <li>1x Azure</li>
-  
 </ul>
+
+##  Projects
+
 
 
 
