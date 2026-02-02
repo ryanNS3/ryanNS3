@@ -17,11 +17,11 @@
 
 ##  Projects
 
-#### BitTask
+#### -BitTask
   Desenvolvido utilizando a famosa stack MERN (MongoDB, Express, React, Node.js), juntamente ao Docker. Este projeto oferece um CRUD com sistema de cadastro e login de usuários, permitindo que os usuários visualizem, criem, atualizem e excluam suas respectivas tarefas e projetos.     
 
-
-
+#### -BitTask
+  Desenvolvido utilizando a famosa stack MERN (MongoDB, Express, React, Node.js), juntamente ao Docker. Este projeto oferece um CRUD com sistema de cadastro e login de usuários, permitindo que os usuários visualizem, criem, atualizem e excluam suas respectivas tarefas e projetos.     
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ryanNS3&bg_color=000000&color=ffffff&line=FFEB3C&point=A39517&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
