@@ -12,9 +12,13 @@
   <li>Jovem Aprendiz no @mercado livre</li>
   <li>Segundo semestre da graduação em Análise e Desenvolvimento De Sistemas </li>
   <li>1x Azure</li>
+  
 </ul>
 
 ##  Projects
+
+#### BitTask
+  Desenvolvido utilizando a famosa stack MERN (MongoDB, Express, React, Node.js), juntamente ao Docker. Este projeto oferece um CRUD com sistema de cadastro e login de usuários, permitindo que os usuários visualizem, criem, atualizem e excluam suas respectivas tarefas e projetos.     
 
 
 
