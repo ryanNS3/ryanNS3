@@ -24,11 +24,6 @@
   Sistema de gestão de estoque e membros da AAPM(associação de alunos, ex-alunos,pais e mestre). O principal objetivo do projeto é reduzir a morosidade no preenchimento de planilhas e trazer mais clareza sobre os dados de venda e estoque. As stack que utilizei nesse projeto foi React.js, tailwind CSS e Axios.
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ryanNS3&bg_color=000000&color=ffffff&line=FFEB3C&point=A39517&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
 
 
 
