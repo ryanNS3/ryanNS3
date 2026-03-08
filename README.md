@@ -29,7 +29,7 @@
 
 ### ⚪Minhas skils:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,sass,javascript,react,java,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,sass,javascript,typescript,mysql,react,java,nodejs)](https://skillicons.dev)
 
 
 
